@@ -1,5 +1,8 @@
 {
-  "Messages": [
-    "Hello World!!!"
+  "posts": [
+    {
+        "id": 123,
+        "message": "Hello"
+    }
   ]
 }
