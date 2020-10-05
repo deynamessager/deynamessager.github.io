@@ -1,0 +1,8 @@
+Uri: https://deynameyn.wixsite.com/mysite
+File Name: C:\Users\Deynameyn\Documents\GitHub\deynamessager.github.io\deynameyn.wixsite.com\mysite.html
+Content Type: text/html
+
+Uri: https://deynameyn.wixsite.com/mysite/
+File Name: C:\Users\Deynameyn\Documents\GitHub\deynamessager.github.io\deynameyn.wixsite.com\mysite\index.htm
+Content Type: text/html
+
